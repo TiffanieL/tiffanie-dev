@@ -2,7 +2,7 @@
   "name": "tiffanie-dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://TiffanieL.github.io/tiffanie-dev",
+  "homepage": "http://TiffanieL.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
